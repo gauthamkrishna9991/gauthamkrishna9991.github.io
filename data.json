@@ -1,0 +1,30 @@
+[
+    {
+        "value":"///",
+        "replace" : "/"
+    },
+    {
+        "value"     : "//h1",
+        "replace"   : "<h1>"
+    },
+    {
+        "value"     : "//h1#",
+        "replace"   : "</h1>"
+    },
+    {
+        "value"     : "//h2",
+        "replace"   : "<h2>"
+    },
+    {
+        "value"     : "//h2#",
+        "replace"   : "</h2>"
+    },
+    {
+        "value"     : "//p",
+        "replace"   : "<p>"
+    },
+    {
+        "value"     : "//p#",
+        "replace"   : "</p>"
+    }
+]

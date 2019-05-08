@@ -1,0 +1,14 @@
+FOR SLASH:
+    ///     :  '/' (SLASH)
+
+FOR HEADING,'x' determines a number
+    //hx    : <hx>
+    //hx#   : </hx>
+LINEBREAK
+    //br    : <br>
+BLOCK QUOTE
+    //blq   : <blockquote>
+    //blq#  : </blockquote>
+PARAGRAPH
+    //p     : <p>
+    //p#    : </p>
